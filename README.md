@@ -41,10 +41,8 @@ systemctl start httpd
 3. **Verify the Deployment**: Access the deployed website through the EC2 instance's public IP or DNS.
 
 #### 5. Repository Structure
-- `VPC Configuration`: Configuration files for the VPC setup.
-- `Scripts`: Contains the deployment script.
-- `Web Files`: The HTML files and assets for the static web application.
-- `Documentation`: Detailed instructions and architectural diagrams.
+- `Deployment Script`: Contains the deployment script for setting up the web application on the EC2 instances.
+- `Architectural Diagram`: Visual representation of the AWS architecture used.
 
 #### 6. Additional Resources
 - **AWS Documentation**: For detailed guidance on configuring each AWS service.
